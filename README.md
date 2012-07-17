@@ -7,6 +7,7 @@ Usage
 =====
 JS api :
 if you use the [kongregate_shell.html](http://developers.kongregate.com/docs/api-overview/client-api "Source page") iframe with the following definition :
+
 ``kongregate = kongregateAPI.getAPI();``
 then you'll have to "bind it" with the following in haxe environment :
 ``var kongregate = new kongreghaxe( Reflect.field( js.Lib.window.parent, "kongregate" ) );``
