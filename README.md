@@ -15,7 +15,7 @@ After that you'll have full completion of the API doing:
 
 Status
 ======
-It is an early version, largely not tested.  
+It is an early version, mostly not tested.  
 At the moment only JS API is provided but AS3 (and maybe AS2) could be made from this lib quite easily.
 
 To Do
